@@ -13,7 +13,7 @@ CoursePath is a web app that gives step-by-step guidance for school and work pro
 
 Click the button below to deploy your own live CoursePath demo:
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/YOUR_USERNAME/coursepath-template)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/lrams2208-lab/coursepath-template)
 
 ---
 
